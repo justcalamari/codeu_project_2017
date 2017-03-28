@@ -6,3 +6,7 @@
 *.class
 
 *.1
+
+.DS_Store
+
+*.swp
