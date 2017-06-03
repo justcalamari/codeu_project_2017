@@ -1,3 +1,12 @@
+# Using Group Chats
+
+Upon successful start up of the server and a client, multiple users must be made.
+After making some users and signing into one, create a conversation. To add a user,
+click on the desired user from the users panel and then "Add User". Now when that
+user logs in they will see that conversation on thier conversation panel. In order
+to leave a conversation click on the conversation and then "Leave Chat". The current
+user will be removed from the conversation.
+
 
 # CODEU CHAT SERVER | README
 
